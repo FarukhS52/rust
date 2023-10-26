@@ -5,7 +5,7 @@ and we appreciate all of them.
 
 The best way to get started is by asking for help in the [#new
 members](https://rust-lang.zulipchat.com/#narrow/stream/122652-new-members)
-Zulip stream. We have lots of docs below of how to get started on your own, but
+Zulip stream. We have lots of docs below on how to get started on your own, but
 the Zulip stream is the best place to *ask* for help.
 
 Documentation for contributing to the compiler or tooling is located in the [Guide to Rustc
@@ -15,7 +15,7 @@ standard library in the [Standard library developers Guide][std-dev-guide], comm
 ## About the [rustc-dev-guide]
 
 The [rustc-dev-guide] is meant to help document how rustc –the Rust compiler– works,
-as well as to help new contributors get involved in rustc development. It is recommend
+as well as to help new contributors get involved in rustc development. It is recommended
 to read and understand the [rustc-dev-guide] before making a contribution. This guide
 talks about the different bots in the Rust ecosystem, the Rust development tools,
 bootstrapping, the compiler architecture, source code representation, and more.
